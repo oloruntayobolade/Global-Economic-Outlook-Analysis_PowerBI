@@ -9,7 +9,7 @@ An interactive Power BI project analysing global economic indicators from 2001 t
 The Global Economic Outlook Dashboard was developed using Microsoft Power BI to explore how economic indicators have changed across **196 countries over a 20-year period (2001–2020)**.
 
 # Dashsboard Overview
-![Dashboard]
+![Dashboard](https://github.com/oloruntayobolade/Global-Economic-Outlook-Analysis_PowerBI/blob/main/Dashboard%20Overview-Image.png)
 The original dataset contains 44 economic indicators covering areas such as Gross Domestic Product (GDP), GDP per capita, population, unemployment, inflation, government revenue and expenditure, national savings, public debt, and international trade.
 
 To keep the dashboard focused and easy to navigate, I selected the indicators most relevant to the project's objectives and developed an interactive, single-page dashboard that allows users to examine country-level economic performance and trends over time.
