@@ -16,12 +16,6 @@ To keep the dashboard focused and easy to navigate, I selected the indicators mo
 
 The project demonstrates my ability to prepare data, handle missing values, develop calculations, build interactive visualizations, and communicate analytical findings through business intelligence tools.
 
-## Dashboard Preview
-
-![Global Economic Outlook Power BI Dashboard](images/global-economic-outlook-dashboard.png)
-
-*Add a screenshot of your completed Power BI dashboard to the `images` folder using the filename shown above.*
-
 ## Project Objectives
 
 The main objectives of this project were to:
