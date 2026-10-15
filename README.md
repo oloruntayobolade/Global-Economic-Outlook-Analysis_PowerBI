@@ -2,7 +2,7 @@
 
 **Exploring 20 Years of Global Economic Trends Across 196 Countries**
 
-An interactive Power BI project analysing global economic indicators from 2001 to 2020, transforming a complex dataset into an accessible dashboard for exploring economic performance, government finances, employment, inflation, and international trade.
+**An interactive Power BI project analysing global economic indicators from 2001 to 2020, transforming a complex dataset into an accessible dashboard for exploring economic performance, government finances, employment, inflation, and international trade.**
 
 ## Project Overview
 
